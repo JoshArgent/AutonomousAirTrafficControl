@@ -1,0 +1,103 @@
+[
+  {
+    "callsign": "EZY538A",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "RATSU",
+    "exit": "KLONN",
+    "entry_altitude": 45000,
+    "exit_altitude": 45000
+  },
+  {
+    "callsign": "CLX779",
+    "type": "B738",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "ATSIX",
+    "exit": "BEREP",
+    "entry_altitude": 45000,
+    "exit_altitude": 45000
+  },
+  {
+    "callsign": "KLM42N",
+    "type": "A332",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "ORVIK",
+    "entry_altitude": 30000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "EZY104A",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "BEREP",
+    "exit": "RATSU",
+    "entry_altitude": 35000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "WZZ945",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "VALBO",
+    "exit": "RATSU",
+    "entry_altitude": 10000,
+    "exit_altitude": 30000
+  },
+  {
+    "callsign": "FIN50X",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "NATEB",
+    "exit": "BEREP",
+    "entry_altitude": 10000,
+    "exit_altitude": 45000
+  },
+  {
+    "callsign": "SAS811",
+    "type": "A321",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "GLASGOW",
+    "exit": "SUMBURGH",
+    "entry_altitude": 10000,
+    "exit_altitude": 38000
+  },
+  {
+    "callsign": "BEE5WC",
+    "type": "DH8D",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "KLONN",
+    "exit": "GLASGOW",
+    "entry_altitude": 22000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "EIN386",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "RIVOT",
+    "exit": "MACHRIHANISH",
+    "entry_altitude": 10000,
+    "exit_altitude": 30000
+  },
+  {
+    "callsign": "RYR114F",
+    "type": "B738",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "MACHRIHANISH",
+    "exit": "ABERDEEN",
+    "entry_altitude": 28000,
+    "exit_altitude": 10000
+  }
+  
+]

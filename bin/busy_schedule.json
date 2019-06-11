@@ -1,0 +1,332 @@
+[
+  {
+    "callsign": "AAL135",
+    "type": "B738",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "RATSU",
+    "exit": "PEPIN",
+    "entry_altitude": 29000,
+    "exit_altitude": 30000
+  },
+  {
+    "callsign": "VKG1521",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "VALBO",
+    "exit": "ROBEM",
+    "entry_altitude": 24000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "EZY14PM",
+    "type": "A320",
+    "entry_time": 0,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "VALBO",
+    "entry_altitude": 39000,
+    "exit_altitude": 39000
+  },
+  {
+    "callsign": "KLM255",
+    "type": "B744",
+    "entry_time": 1,
+    "expected_exit_time": 0,
+    "entry": "MACHRIHANISH",
+    "exit": "BEREP",
+    "entry_altitude": 32000,
+    "exit_altitude": 36000
+  },
+  {
+    "callsign": "SAS806",
+    "type": "B738",
+    "entry_time": 1,
+    "expected_exit_time": 0,
+    "entry": "RIGVU",
+    "exit": "TUNSO",
+    "entry_altitude": 37000,
+    "exit_altitude": 37000
+  },
+  {
+    "callsign": "EZE78H",
+    "type": "DH8D",
+    "entry_time": 2,
+    "expected_exit_time": 0,
+    "entry": "NATEB",
+    "exit": "SUMBURGH",
+    "entry_altitude": 35000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "ENT595",
+    "type": "B738",
+    "entry_time": 3,
+    "expected_exit_time": 0,
+    "entry": "MATIK",
+    "exit": "ABERDEEN",
+    "entry_altitude": 37000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "KLM28F",
+    "type": "B737",
+    "entry_time": 3,
+    "expected_exit_time": 0,
+    "entry": "VAXIT",
+    "exit": "STORNOWAY",
+    "entry_altitude": 40000,
+    "exit_altitude": 40000
+  },
+  {
+    "callsign": "BAW5",
+    "type": "B788",
+    "entry_time": 4,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "NAVEL",
+    "entry_altitude": 34000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "IBK5WY",
+    "type": "B738",
+    "entry_time": 5,
+    "expected_exit_time": 0,
+    "entry": "ATSIX",
+    "exit": "NAVEL",
+    "entry_altitude": 37000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "SHT19T",
+    "type": "A319",
+    "entry_time": 5,
+    "expected_exit_time": 0,
+    "entry": "ASRUS",
+    "exit": "ABERDEEN",
+    "entry_altitude": 32000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "VKG1509",
+    "type": "A320",
+    "entry_time": 5,
+    "expected_exit_time": 0,
+    "entry": "MATIK",
+    "exit": "BEREP",
+    "entry_altitude": 39000,
+    "exit_altitude": 39000
+  },
+  {
+    "callsign": "ANZ1",
+    "type": "B738",
+    "entry_time": 6,
+    "expected_exit_time": 0,
+    "entry": "KLONN",
+    "exit": "GLASGOW",
+    "entry_altitude": 30000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "BEE98R",
+    "type": "DH8D",
+    "entry_time": 6,
+    "expected_exit_time": 0,
+    "entry": "GLASGOW",
+    "exit": "RIGVU",
+    "entry_altitude": 10000,
+    "exit_altitude": 24000
+  },
+  {
+    "callsign": "DLH458",
+    "type": "A321",
+    "entry_time": 6,
+    "expected_exit_time": 0,
+    "entry": "VALBO",
+    "exit": "NEXUS",
+    "entry_altitude": 34000,
+    "exit_altitude": 34000
+  },
+  {
+    "callsign": "EZE14W",
+    "type": "DH8D",
+    "entry_time": 7,
+    "expected_exit_time": 0,
+    "entry": "TUNSO",
+    "exit": "NIVUN",
+    "entry_altitude": 18000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "SHT18V",
+    "type": "A319",
+    "entry_time": 7,
+    "expected_exit_time": 0,
+    "entry": "ABERDEEN",
+    "exit": "NATEB",
+    "entry_altitude": 10000,
+    "exit_altitude": 33000
+  },
+  {
+    "callsign": "SHT8U",
+    "type": "A320",
+    "entry_time": 8,
+    "expected_exit_time": 0,
+    "entry": "RIVOT",
+    "exit": "NATEB",
+    "entry_altitude": 10000,
+    "exit_altitude": 30000
+  },
+  {
+    "callsign": "KLM42K",
+    "type": "B738",
+    "entry_time": 9,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "VALBO",
+    "entry_altitude": 11000,
+    "exit_altitude": 36000
+  },
+  {
+    "callsign": "RYR8313",
+    "type": "B738",
+    "entry_time": 10,
+    "expected_exit_time": 0,
+    "entry": "GOREV",
+    "exit": "NEXUS",
+    "entry_altitude": 39000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "SOO275",
+    "type": "A320",
+    "entry_time": 12,
+    "expected_exit_time": 0,
+    "entry": "ATSIX",
+    "exit": "PEPIN",
+    "entry_altitude": 35000,
+    "exit_altitude": 35000
+  },
+  {
+    "callsign": "FDX8",
+    "type": "A320",
+    "entry_time": 12,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "PEPIN",
+    "entry_altitude": 35000,
+    "exit_altitude": 35000
+  },
+  {
+    "callsign": "BMR1315",
+    "type": "A320",
+    "entry_time": 13,
+    "expected_exit_time": 0,
+    "entry": "NIVUN",
+    "exit": "NATEB",
+    "entry_altitude": 36000,
+    "exit_altitude": 36000
+  },
+  {
+    "callsign": "IBK5390",
+    "type": "B738",
+    "entry_time": 13,
+    "expected_exit_time": 0,
+    "entry": "ASRUS",
+    "exit": "BALIX",
+    "entry_altitude": 36000,
+    "exit_altitude": 36000
+  },
+  {
+    "callsign": "IBK1604",
+    "type": "A320",
+    "entry_time": 15,
+    "expected_exit_time": 0,
+    "entry": "BALIX",
+    "exit": "NAVEL",
+    "entry_altitude": 36000,
+    "exit_altitude": 36000
+  },
+  {
+    "callsign": "EXS68V",
+    "type": "B733",
+    "entry_time": 15,
+    "expected_exit_time": 0,
+    "entry": "NEXUS",
+    "exit": "NATEB",
+    "entry_altitude": 10000,
+    "exit_altitude": 24000
+  },
+  {
+    "callsign": "RYR116",
+    "type": "B738",
+    "entry_time": 17,
+    "expected_exit_time": 0,
+    "entry": "ALOTI",
+    "exit": "NATEB",
+    "entry_altitude": 38000,
+    "exit_altitude": 38000
+  },
+  {
+    "callsign": "UAL959",
+    "type": "B772",
+    "entry_time": 19,
+    "expected_exit_time": 0,
+    "entry": "NIVUN",
+    "exit": "TUNSO",
+    "entry_altitude": 38000,
+    "exit_altitude": 38000
+  },
+  {
+    "callsign": "DLH412",
+    "type": "A388",
+    "entry_time": 20,
+    "expected_exit_time": 0,
+    "entry": "ATSIX",
+    "exit": "BEREP",
+    "entry_altitude": 34000,
+    "exit_altitude": 34000
+  },
+  {
+    "callsign": "VIR23J",
+    "type": "B788",
+    "entry_time": 20,
+    "expected_exit_time": 0,
+    "entry": "BEREP",
+    "exit": "ATSIX",
+    "entry_altitude": 39000,
+    "exit_altitude": 39000
+  },
+  {
+    "callsign": "EZY6979",
+    "type": "A319",
+    "entry_time": 21,
+    "expected_exit_time": 0,
+    "entry": "NINEX",
+    "exit": "ABERDEEN",
+    "entry_altitude": 33000,
+    "exit_altitude": 10000
+  },
+  {
+    "callsign": "BEE7NU",
+    "type": "DH8D",
+    "entry_time": 23,
+    "expected_exit_time": 0,
+    "entry": "NEXUS",
+    "exit": "VALBO",
+    "entry_altitude": 10000,
+    "exit_altitude": 20000
+  },
+  {
+    "callsign": "LOG868B",
+    "type": "DH8D",
+    "entry_time": 25,
+    "expected_exit_time": 0,
+    "entry": "VALBO",
+    "exit": "GOMOT",
+    "entry_altitude": 20000,
+    "exit_altitude": 10000
+  }
+]
