@@ -14,3 +14,5 @@ The project involves the development of two key components: a simulator to simul
 Overall, the MAPF technique is effective at safely keeping aircraft separated, however, the limitation of the graph prevents more optimal routes for aircraft been found. With further research and development, the MAPF approach could be a feasible method for automating air traffic control.
 
 *The full dissertation text is available in this repository.*
+
+![Screenshot](https://github.com/JoshArgent/AutonomousAirTrafficControl/blob/master/images/screenshot.png "Screenshot")
